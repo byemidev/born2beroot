@@ -451,6 +451,11 @@ born2beroot/
 
 ---
 
-> **Author:** [Your Name]  
-> **42 Login:** [Your Login]  
-> **Repository:** https://github.com/[username]/born2beroot
+## Credits
+[VirtualBox User Guide](https://www.virtualbox.org/manual/ch01.html#create-vm-wizard)
+[Debian tutorials](https://www.debian.org/doc/manuals/debian-reference/ch01.en.html)
+[B2beroot activity gitbook](https://noreply.gitbook.io/born2beroot)
+
+> **Author:** emi arevalo 
+> **42 Login:** garevalo  
+> **Repository:** https://github.com/byemidev/born2beroot
